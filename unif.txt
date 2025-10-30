@@ -1,0 +1,26 @@
+fix in a code
+tourism male
+hm male and female
+arts and science female
+shs male
+business and management female
+it and eng
+
+
+training 
+
+
+
+
+need to test 
+tourism female
+business and management male
+
+
+
+missing 
+arts and sciences male (blue scarf)
+
+shs female ( navy blue skirt)
+
+
